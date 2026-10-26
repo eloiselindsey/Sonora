@@ -1,0 +1,242 @@
+[
+  {
+    "id": "f01",
+    "module": "ondas",
+    "front": "O que é uma onda?",
+    "back": "Perturbação que se propaga transportando energia sem transportar matéria globalmente."
+  },
+  {
+    "id": "f02",
+    "module": "ondas",
+    "front": "Por que o som é onda mecânica?",
+    "back": "Porque necessita da interação entre partículas de um meio material."
+  },
+  {
+    "id": "f03",
+    "module": "ondas",
+    "front": "O que mede a amplitude?",
+    "back": "O afastamento máximo da grandeza oscilante em relação ao equilíbrio."
+  },
+  {
+    "id": "f04",
+    "module": "ondas",
+    "front": "O que significa 250 Hz?",
+    "back": "250 ciclos completos em cada segundo."
+  },
+  {
+    "id": "f05",
+    "module": "ondas",
+    "front": "Qual é a relação entre f e T?",
+    "back": "f = 1/T e T = 1/f."
+  },
+  {
+    "id": "f06",
+    "module": "ondas",
+    "front": "Como calcular v de onda periódica?",
+    "back": "v = λf, com λ em metros e f em hertz."
+  },
+  {
+    "id": "f07",
+    "module": "ondas",
+    "front": "Transversal e longitudinal: diferença?",
+    "back": "Na transversal o meio oscila perpendicularmente à propagação; na longitudinal, paralelamente."
+  },
+  {
+    "id": "f08",
+    "module": "ondas",
+    "front": "A luz precisa de ar para se propagar?",
+    "back": "Não; ondas eletromagnéticas podem viajar no vácuo."
+  },
+  {
+    "id": "f09",
+    "module": "propriedades",
+    "front": "O que é altura sonora?",
+    "back": "Sensação ligada principalmente à frequência: grave ou agudo."
+  },
+  {
+    "id": "f10",
+    "module": "propriedades",
+    "front": "O que distingue som forte de fraco?",
+    "back": "A sensação de volume relaciona-se à intensidade e ao ouvido, não simplesmente à altura."
+  },
+  {
+    "id": "f11",
+    "module": "propriedades",
+    "front": "O que caracteriza o timbre?",
+    "back": "Espectro harmônico e envelope temporal ajudam a identificar fontes."
+  },
+  {
+    "id": "f12",
+    "module": "propriedades",
+    "front": "Aumentar amplitude eleva necessariamente a frequência?",
+    "back": "Não. São grandezas independentes em muitos modelos."
+  },
+  {
+    "id": "f13",
+    "module": "propriedades",
+    "front": "Por que uma flauta e violão diferem na mesma nota?",
+    "back": "Porque seus harmônicos e envelopes sonoros são distintos."
+  },
+  {
+    "id": "f14",
+    "module": "propriedades",
+    "front": "O que é duração?",
+    "back": "O tempo total do evento sonoro, diferente do período de um ciclo."
+  },
+  {
+    "id": "f15",
+    "module": "propriedades",
+    "front": "O que muda ao dobrar 440 para 880 Hz?",
+    "back": "A altura sobe aproximadamente uma oitava no sistema musical convencional."
+  },
+  {
+    "id": "f16",
+    "module": "propriedades",
+    "front": "Como a intensidade ideal se relaciona à potência?",
+    "back": "I = P/A para potência transmitida pela área considerada."
+  },
+  {
+    "id": "f17",
+    "module": "decibeis",
+    "front": "O que significa +10 dB em intensidade?",
+    "back": "Dez vezes mais intensidade física no modelo comparável."
+  },
+  {
+    "id": "f18",
+    "module": "decibeis",
+    "front": "A escala em dB é linear?",
+    "back": "Não, é logarítmica."
+  },
+  {
+    "id": "f19",
+    "module": "decibeis",
+    "front": "Como expressar nível de intensidade?",
+    "back": "β = 10 log₁₀(I/I₀), usualmente I₀ = 10⁻¹² W/m² no contexto didático."
+  },
+  {
+    "id": "f20",
+    "module": "decibeis",
+    "front": "O que diferencia dBA?",
+    "back": "Ponderação de frequência em medição prática de pressão sonora."
+  },
+  {
+    "id": "f21",
+    "module": "decibeis",
+    "front": "O que determina risco auditivo?",
+    "back": "Nível, duração, repetição e condições pessoais e ambientais."
+  },
+  {
+    "id": "f22",
+    "module": "decibeis",
+    "front": "Som alto no site é sonômetro calibrado?",
+    "back": "Não; áudio digital não é medição acústica calibrada."
+  },
+  {
+    "id": "f23",
+    "module": "velocidade",
+    "front": "Velocidade aproximada do som a 20 °C?",
+    "back": "343 m/s no ar, como estimativa didática."
+  },
+  {
+    "id": "f24",
+    "module": "velocidade",
+    "front": "Som viaja mais rápido na água ou no ar, em condições usuais?",
+    "back": "Na água, mas velocidade depende das propriedades dos meios."
+  },
+  {
+    "id": "f25",
+    "module": "velocidade",
+    "front": "Como estimar v no ar seco perto do ambiente?",
+    "back": "v ≈ 331 + 0,6θ (m/s), com θ em °C."
+  },
+  {
+    "id": "f26",
+    "module": "velocidade",
+    "front": "O que ocorre com λ se v muda e f se mantém?",
+    "back": "λ muda na mesma proporção que v, pois v = λf."
+  },
+  {
+    "id": "f27",
+    "module": "velocidade",
+    "front": "Por que a luz do raio chega antes do trovão?",
+    "back": "A luz propaga-se muito mais rapidamente que o som."
+  },
+  {
+    "id": "f28",
+    "module": "velocidade",
+    "front": "Qual relação descreve velocidade média?",
+    "back": "v = Δs/Δt, com unidades coerentes."
+  },
+  {
+    "id": "f29",
+    "module": "fontes",
+    "front": "Qual relação vale para a corda ideal?",
+    "back": "v = √(F/μ), com tensão F e densidade linear μ."
+  },
+  {
+    "id": "f30",
+    "module": "fontes",
+    "front": "Onde ficam nós em uma corda fixa?",
+    "back": "Nas extremidades fixas, que não se deslocam."
+  },
+  {
+    "id": "f31",
+    "module": "fontes",
+    "front": "Frequência fundamental da corda ideal?",
+    "back": "f₁ = v/(2L)."
+  },
+  {
+    "id": "f32",
+    "module": "fontes",
+    "front": "Tubo fechado-aberto ideal: quais harmônicos?",
+    "back": "Apenas múltiplos ímpares da fundamental."
+  },
+  {
+    "id": "f33",
+    "module": "fontes",
+    "front": "Uma oitava acima dobra o quê?",
+    "back": "A frequência fundamental."
+  },
+  {
+    "id": "f34",
+    "module": "fontes",
+    "front": "Na escala temperada, qual fórmula?",
+    "back": "f₂ = f₁ × 2^(n/12), com n em semitons."
+  },
+  {
+    "id": "f35",
+    "module": "fenomenos",
+    "front": "Por que d = vt/2 no eco?",
+    "back": "Porque o som percorre o trecho até a parede duas vezes."
+  },
+  {
+    "id": "f36",
+    "module": "fenomenos",
+    "front": "O que é refração sonora?",
+    "back": "Mudança de direção associada a diferenças de velocidade do meio."
+  },
+  {
+    "id": "f37",
+    "module": "fenomenos",
+    "front": "O que diz a superposição linear?",
+    "back": "A perturbação resultante é a soma algébrica das perturbações."
+  },
+  {
+    "id": "f38",
+    "module": "fenomenos",
+    "front": "Quando ocorre interferência destrutiva ideal?",
+    "back": "Quando duas perturbações de mesma magnitude chegam com fases opostas."
+  },
+  {
+    "id": "f39",
+    "module": "fenomenos",
+    "front": "Como calcular batimentos?",
+    "back": "fᵦ = |f₁−f₂| para dois tons próximos."
+  },
+  {
+    "id": "f40",
+    "module": "fenomenos",
+    "front": "Absorção e isolamento são a mesma coisa?",
+    "back": "Não. Absorção dissipa parte da energia; isolamento busca reduzir a transmissão."
+  }
+]

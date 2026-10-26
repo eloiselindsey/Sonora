@@ -1,0 +1,2435 @@
+[
+  {
+    "module": "base",
+    "level": "facil",
+    "type": "truefalse",
+    "question": "O período de uma oscilação é medido em segundos.",
+    "options": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "answer": 0,
+    "explanation": "O período expressa a duração de um ciclo; sua unidade no SI é o segundo.",
+    "id": "q001",
+    "hints": [
+      "Identifique o conceito central: base.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "base",
+    "level": "facil",
+    "type": "choice",
+    "question": "Qual grandeza é expressa em hertz?",
+    "options": [
+      "distância",
+      "frequência",
+      "potência",
+      "amplitude"
+    ],
+    "answer": 1,
+    "explanation": "Hz corresponde ao número de ciclos completos a cada segundo.",
+    "id": "q002",
+    "hints": [
+      "Identifique o conceito central: base.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "base",
+    "level": "facil",
+    "type": "choice",
+    "question": "Um corpo realiza 10 ciclos em 2 s. A frequência é...",
+    "options": [
+      "20 Hz",
+      "12 Hz",
+      "5 Hz",
+      "0,2 Hz"
+    ],
+    "answer": 2,
+    "explanation": "Divida o número de ciclos pelo tempo: 10/2 = 5 Hz.",
+    "id": "q003",
+    "hints": [
+      "Identifique o conceito central: base.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "base",
+    "level": "facil",
+    "type": "choice",
+    "question": "Qual unidade corresponde a velocidade?",
+    "options": [
+      "m²",
+      "Hz",
+      "W/m²",
+      "m/s"
+    ],
+    "answer": 3,
+    "explanation": "Metros por segundo indica distância percorrida por unidade de tempo.",
+    "id": "q004",
+    "hints": [
+      "Identifique o conceito central: base.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "base",
+    "level": "facil",
+    "type": "choice",
+    "question": "No gráfico de posição versus tempo, a distância horizontal entre picos indica...",
+    "options": [
+      "potência sonora",
+      "comprimento de onda",
+      "intensidade",
+      "período"
+    ],
+    "answer": 3,
+    "explanation": "Quando o eixo horizontal é o tempo, a separação entre repetições equivale ao período.",
+    "id": "q005",
+    "hints": [
+      "Identifique o conceito central: base.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "ondas",
+    "level": "facil",
+    "type": "truefalse",
+    "question": "Uma onda mecânica consegue propagar-se pelo vácuo perfeito.",
+    "options": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "answer": 1,
+    "explanation": "Ondas mecânicas precisam das interações de um meio material.",
+    "id": "q006",
+    "hints": [
+      "Identifique o conceito central: ondas.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "ondas",
+    "level": "facil",
+    "type": "choice",
+    "question": "Uma onda transversal possui oscilação...",
+    "options": [
+      "sem direção definida",
+      "perpendicular à direção de propagação",
+      "sempre paralela à propagação",
+      "sempre circular"
+    ],
+    "answer": 1,
+    "explanation": "A classificação depende da orientação do movimento do meio em relação ao avanço da perturbação.",
+    "id": "q007",
+    "hints": [
+      "Identifique o conceito central: ondas.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "ondas",
+    "level": "facil",
+    "type": "choice",
+    "question": "A distância entre duas cristas consecutivas chama-se...",
+    "options": [
+      "volume",
+      "comprimento de onda",
+      "período",
+      "potência"
+    ],
+    "answer": 1,
+    "explanation": "Pontos consecutivos na mesma fase estão separados por λ.",
+    "id": "q008",
+    "hints": [
+      "Identifique o conceito central: ondas.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "ondas",
+    "level": "facil",
+    "type": "choice",
+    "question": "A amplitude representa...",
+    "options": [
+      "o número de ciclos por segundo",
+      "o tempo total da experiência",
+      "a distância percorrida em um segundo",
+      "o afastamento máximo da grandeza em relação ao equilíbrio"
+    ],
+    "answer": 3,
+    "explanation": "Amplitude quantifica o valor máximo da perturbação relativamente ao equilíbrio.",
+    "id": "q009",
+    "hints": [
+      "Identifique o conceito central: ondas.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "ondas",
+    "level": "facil",
+    "type": "choice",
+    "question": "Uma onda eletromagnética pode...",
+    "options": [
+      "ter frequência sempre abaixo de 20 Hz",
+      "ser obrigatoriamente longitudinal no ar",
+      "existir apenas na água",
+      "viajar no vácuo"
+    ],
+    "answer": 3,
+    "explanation": "A luz pode viajar no espaço vazio, ao contrário do som.",
+    "id": "q010",
+    "hints": [
+      "Identifique o conceito central: ondas.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "som",
+    "level": "facil",
+    "type": "truefalse",
+    "question": "No ar, o som comum se propaga por variações locais de pressão.",
+    "options": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "answer": 0,
+    "explanation": "Compressões e rarefações se deslocam, enquanto as partículas oscilam ao redor do equilíbrio.",
+    "id": "q011",
+    "hints": [
+      "Identifique o conceito central: som.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "som",
+    "level": "facil",
+    "type": "choice",
+    "question": "No ar, ondas sonoras comuns são predominantemente...",
+    "options": [
+      "estáticas",
+      "eletromagnéticas",
+      "transversais à propagação",
+      "longitudinais"
+    ],
+    "answer": 3,
+    "explanation": "As moléculas oscilam aproximadamente paralelas ao avanço da onda de pressão.",
+    "id": "q012",
+    "hints": [
+      "Identifique o conceito central: som.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "som",
+    "level": "facil",
+    "type": "choice",
+    "question": "O som não se propaga no vácuo porque...",
+    "options": [
+      "o vácuo reduz a intensidade pela metade",
+      "o vácuo absorve todo som",
+      "sua frequência se torna zero automaticamente",
+      "falta um meio material para transmitir a perturbação"
+    ],
+    "answer": 3,
+    "explanation": "Ondas sonoras são mecânicas e precisam de partículas interagindo.",
+    "id": "q013",
+    "hints": [
+      "Identifique o conceito central: som.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "som",
+    "level": "facil",
+    "type": "choice",
+    "question": "Ultrassom apresenta frequência tipicamente...",
+    "options": [
+      "igual a 0 Hz",
+      "exatamente 440 Hz",
+      "acima de 20 kHz",
+      "sempre abaixo de 20 Hz"
+    ],
+    "answer": 2,
+    "explanation": "Acima da faixa auditiva humana típica, frequências são classificadas como ultrassom.",
+    "id": "q014",
+    "hints": [
+      "Identifique o conceito central: som.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "som",
+    "level": "facil",
+    "type": "choice",
+    "question": "Uma região de compressão de onda sonora no ar apresenta...",
+    "options": [
+      "ausência absoluta de moléculas",
+      "pressão local acima da pressão média",
+      "velocidade da luz alterada",
+      "luz mais forte"
+    ],
+    "answer": 1,
+    "explanation": "As moléculas ficam momentaneamente mais próximas, aumentando a pressão local.",
+    "id": "q015",
+    "hints": [
+      "Identifique o conceito central: som.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "propriedades",
+    "level": "facil",
+    "type": "truefalse",
+    "question": "Um som agudo é obrigatoriamente mais intenso do que um grave.",
+    "options": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "answer": 1,
+    "explanation": "Agudo se refere à frequência; intensidade é outra grandeza.",
+    "id": "q016",
+    "hints": [
+      "Identifique o conceito central: propriedades.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "propriedades",
+    "level": "facil",
+    "type": "choice",
+    "question": "Um som pode ser agudo e fraco?",
+    "options": [
+      "sim, mas apenas no vácuo",
+      "não, agudo significa alto volume",
+      "não, grave e fraco são sinônimos",
+      "sim, porque altura e intensidade são propriedades diferentes"
+    ],
+    "answer": 3,
+    "explanation": "Frequência está ligada à altura; amplitude e energia estão ligadas à intensidade.",
+    "id": "q017",
+    "hints": [
+      "Identifique o conceito central: propriedades.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "propriedades",
+    "level": "facil",
+    "type": "choice",
+    "question": "O timbre permite distinguir...",
+    "options": [
+      "fontes com mesma nota, mas espectros e envelopes distintos",
+      "a distância total percorrida por uma onda",
+      "somente sons acima de 100 dB",
+      "apenas sons de frequências diferentes"
+    ],
+    "answer": 0,
+    "explanation": "Harmônicos e evolução temporal influenciam a identidade sonora.",
+    "id": "q018",
+    "hints": [
+      "Identifique o conceito central: propriedades.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "propriedades",
+    "level": "facil",
+    "type": "choice",
+    "question": "A duração de um som corresponde...",
+    "options": [
+      "sempre à inversa da amplitude",
+      "à velocidade de propagação",
+      "ao intervalo durante o qual ocorre o evento sonoro",
+      "necessariamente ao período de um ciclo"
+    ],
+    "answer": 2,
+    "explanation": "O período é a duração de uma oscilação; duração total pode abranger muitas oscilações.",
+    "id": "q019",
+    "hints": [
+      "Identifique o conceito central: propriedades.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "propriedades",
+    "level": "facil",
+    "type": "choice",
+    "question": "Ao aumentar a frequência de 220 para 440 Hz, mantendo condições comparáveis, a sensação esperada é...",
+    "options": [
+      "uma nota mais aguda",
+      "uma nota necessariamente mais forte",
+      "redução da altura em uma oitava",
+      "eliminação completa do timbre"
+    ],
+    "answer": 0,
+    "explanation": "Dobrar a frequência equivale a subir uma oitava na referência musical convencional.",
+    "id": "q020",
+    "hints": [
+      "Identifique o conceito central: propriedades.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "velocidade",
+    "level": "facil",
+    "type": "truefalse",
+    "question": "A velocidade do som é universalmente igual a 343 m/s em qualquer material.",
+    "options": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "answer": 1,
+    "explanation": "343 m/s é um valor típico no ar próximo de 20 °C; outros meios têm outras velocidades.",
+    "id": "q021",
+    "hints": [
+      "Identifique o conceito central: velocidade.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "velocidade",
+    "level": "facil",
+    "type": "choice",
+    "question": "O som se propaga no vácuo?",
+    "options": [
+      "sim, com a velocidade da luz",
+      "sim, apenas em frequências altas",
+      "sim, desde que seja intenso",
+      "não"
+    ],
+    "answer": 3,
+    "explanation": "A propagação sonora requer matéria.",
+    "id": "q022",
+    "hints": [
+      "Identifique o conceito central: velocidade.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "velocidade",
+    "level": "facil",
+    "type": "choice",
+    "question": "Para estimar uma velocidade constante, usamos...",
+    "options": [
+      "frequência vezes área",
+      "distância dividida por tempo",
+      "distância vezes tempo",
+      "tempo dividido pela amplitude"
+    ],
+    "answer": 1,
+    "explanation": "Velocidade v = distância/intervalo de tempo.",
+    "id": "q023",
+    "hints": [
+      "Identifique o conceito central: velocidade.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "velocidade",
+    "level": "facil",
+    "type": "choice",
+    "question": "O que modifica a velocidade do som no ar?",
+    "options": [
+      "volume do computador isoladamente",
+      "cor do objeto",
+      "temperatura e propriedades do meio",
+      "idioma falado"
+    ],
+    "answer": 2,
+    "explanation": "A velocidade depende das condições físicas do gás.",
+    "id": "q024",
+    "hints": [
+      "Identifique o conceito central: velocidade.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "velocidade",
+    "level": "facil",
+    "type": "choice",
+    "question": "Vemos o relâmpago antes do trovão porque...",
+    "options": [
+      "o som sempre se forma minutos depois",
+      "o trovão viaja no vácuo",
+      "a luz chega muito mais rapidamente que o som",
+      "a luz não leva tempo para percorrer o espaço"
+    ],
+    "answer": 2,
+    "explanation": "O som e a luz podem ser emitidos quase simultaneamente, mas suas velocidades são muito diferentes.",
+    "id": "q025",
+    "hints": [
+      "Identifique o conceito central: velocidade.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "fontes",
+    "level": "facil",
+    "type": "truefalse",
+    "question": "Numa corda ideal de extremidades fixas, as pontas são nós de vibração.",
+    "options": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "answer": 0,
+    "explanation": "Extremidades fixas não se deslocam no modelo de ondas estacionárias.",
+    "id": "q026",
+    "hints": [
+      "Identifique o conceito central: fontes.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "fontes",
+    "level": "facil",
+    "type": "choice",
+    "question": "Quando encurtamos a parte vibrante de uma corda ideal sem alterar o restante, a frequência fundamental tende a...",
+    "options": [
+      "diminuir",
+      "ficar sempre nula",
+      "aumentar",
+      "tornar-se ultrassom obrigatoriamente"
+    ],
+    "answer": 2,
+    "explanation": "Para corda ideal, f₁ = v/(2L): menor L implica maior f₁.",
+    "id": "q027",
+    "hints": [
+      "Identifique o conceito central: fontes.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "fontes",
+    "level": "facil",
+    "type": "choice",
+    "question": "Uma onda estacionária possui ventres, onde a amplitude é...",
+    "options": [
+      "uma constante de velocidade",
+      "máxima no modo considerado",
+      "obrigatoriamente igual à frequência",
+      "sempre zero"
+    ],
+    "answer": 1,
+    "explanation": "Ventres são pontos de maior amplitude local; nós têm amplitude nula ideal.",
+    "id": "q028",
+    "hints": [
+      "Identifique o conceito central: fontes.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "fontes",
+    "level": "facil",
+    "type": "choice",
+    "question": "Um tubo ideal fechado em uma ponta apresenta fundamental...",
+    "options": [
+      "f₁ = v/L",
+      "f₁ = v/(4L)",
+      "f₁ = L/v",
+      "f₁ = 4Lv"
+    ],
+    "answer": 1,
+    "explanation": "Para uma ponta fechada e outra aberta, cabe um quarto de comprimento de onda no modo fundamental.",
+    "id": "q029",
+    "hints": [
+      "Identifique o conceito central: fontes.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "fontes",
+    "level": "facil",
+    "type": "choice",
+    "question": "Ressonância é...",
+    "options": [
+      "ausência completa de vibração",
+      "sinônimo de eco distante",
+      "resposta acentuada próximo às frequências naturais de um sistema",
+      "som que viaja no vácuo"
+    ],
+    "answer": 2,
+    "explanation": "A resposta depende da relação entre excitação e modos naturais do sistema.",
+    "id": "q030",
+    "hints": [
+      "Identifique o conceito central: fontes.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "fenomenos",
+    "level": "facil",
+    "type": "truefalse",
+    "question": "O tempo medido de um eco simples inclui ida e volta da onda.",
+    "options": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "answer": 0,
+    "explanation": "Por isso d = vt/2 para a distância até a parede.",
+    "id": "q031",
+    "hints": [
+      "Identifique o conceito central: fenomenos.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "fenomenos",
+    "level": "facil",
+    "type": "choice",
+    "question": "A refração está relacionada a...",
+    "options": [
+      "ausência de propagação",
+      "subida do som em linha reta obrigatória",
+      "mudanças de direção associadas à variação da velocidade no meio",
+      "sempre à perda total de frequência"
+    ],
+    "answer": 2,
+    "explanation": "Variações espaciais de velocidade podem curvar ou desviar caminhos de propagação.",
+    "id": "q032",
+    "hints": [
+      "Identifique o conceito central: fenomenos.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "fenomenos",
+    "level": "facil",
+    "type": "choice",
+    "question": "Quando ondas se encontram em um meio linear...",
+    "options": [
+      "a energia sempre dobra",
+      "suas perturbações se somam",
+      "elas deixam de existir definitivamente",
+      "a frequência de todas vira zero"
+    ],
+    "answer": 1,
+    "explanation": "A superposição soma algebricamente a grandeza física considerada.",
+    "id": "q033",
+    "hints": [
+      "Identifique o conceito central: fenomenos.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "fenomenos",
+    "level": "facil",
+    "type": "choice",
+    "question": "Interferência destrutiva perfeita em um ponto requer, entre outras coisas,...",
+    "options": [
+      "perturbações de mesma magnitude e fases opostas",
+      "duas fontes com amplitude infinita",
+      "um meio sem partículas",
+      "luz visível necessariamente"
+    ],
+    "answer": 0,
+    "explanation": "Sinais opostos de igual módulo podem somar zero naquele ponto.",
+    "id": "q034",
+    "hints": [
+      "Identifique o conceito central: fenomenos.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "fenomenos",
+    "level": "facil",
+    "type": "choice",
+    "question": "Batimentos podem ser ouvidos quando tons possuem...",
+    "options": [
+      "pressão constante sem oscilação",
+      "velocidade no vácuo",
+      "frequências sempre iguais a zero",
+      "frequências próximas"
+    ],
+    "answer": 3,
+    "explanation": "Frequências próximas produzem uma modulação lenta da amplitude total.",
+    "id": "q035",
+    "hints": [
+      "Identifique o conceito central: fenomenos.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "decibeis",
+    "level": "facil",
+    "type": "truefalse",
+    "question": "Dez decibéis adicionais significam que a intensidade física cresceu apenas dez por cento.",
+    "options": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "answer": 1,
+    "explanation": "Diferença de +10 dB significa razão de intensidades 10, na mesma referência.",
+    "id": "q036",
+    "hints": [
+      "Identifique o conceito central: decibeis.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "decibeis",
+    "level": "facil",
+    "type": "choice",
+    "question": "Um aumento de 10 dB no nível de intensidade representa...",
+    "options": [
+      "dez vezes a intensidade física no modelo",
+      "duas vezes a intensidade sempre",
+      "10% a mais de frequência",
+      "mais dez watts por metro quadrado"
+    ],
+    "answer": 0,
+    "explanation": "A diferença é 10 log₁₀(I₂/I₁); 10 dB indica razão 10.",
+    "id": "q037",
+    "hints": [
+      "Identifique o conceito central: decibeis.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "decibeis",
+    "level": "facil",
+    "type": "choice",
+    "question": "Ruído urbano persistente pode prejudicar...",
+    "options": [
+      "a velocidade da luz",
+      "somente as frequências ultrassônicas",
+      "somente o brilho dos objetos",
+      "concentração e qualidade do sono"
+    ],
+    "answer": 3,
+    "explanation": "Poluição sonora influencia atividades e bem-estar mesmo antes de haver dano auditivo.",
+    "id": "q038",
+    "hints": [
+      "Identifique o conceito central: decibeis.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "decibeis",
+    "level": "facil",
+    "type": "choice",
+    "question": "Uma demonstração digital de 100 dB numa página garante reproduzir 100 dB reais?",
+    "options": [
+      "sim, se o gráfico for vermelho",
+      "sim, se usar fones",
+      "não, sem medição e calibração não existe essa garantia",
+      "sim, em qualquer dispositivo"
+    ],
+    "answer": 2,
+    "explanation": "Volume digital não constitui medição calibrada de pressão acústica.",
+    "id": "q039",
+    "hints": [
+      "Identifique o conceito central: decibeis.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "decibeis",
+    "level": "facil",
+    "type": "choice",
+    "question": "O risco auditivo depende de...",
+    "options": [
+      "apenas do valor de frequência em Hz",
+      "somente do nome do instrumento",
+      "somente da cor do ambiente",
+      "nível, duração e repetição de exposição"
+    ],
+    "answer": 3,
+    "explanation": "Orientações de saúde consideram duração e intensidade da exposição.",
+    "id": "q040",
+    "hints": [
+      "Identifique o conceito central: decibeis.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "musica",
+    "level": "facil",
+    "type": "truefalse",
+    "question": "Uma oitava acima corresponde ao dobro da frequência fundamental.",
+    "options": [
+      "Verdadeiro",
+      "Falso"
+    ],
+    "answer": 0,
+    "explanation": "O intervalo de oitava relaciona frequências na razão 2:1.",
+    "id": "q041",
+    "hints": [
+      "Identifique o conceito central: musica.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "musica",
+    "level": "facil",
+    "type": "choice",
+    "question": "A unidade física da frequência musical é...",
+    "options": [
+      "litro",
+      "hertz",
+      "quilograma",
+      "decibel por metro"
+    ],
+    "answer": 1,
+    "explanation": "Frequência expressa oscilações por segundo.",
+    "id": "q042",
+    "hints": [
+      "Identifique o conceito central: musica.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "musica",
+    "level": "facil",
+    "type": "choice",
+    "question": "Um semitom na escala temperada equivale a multiplicar a frequência por...",
+    "options": [
+      "2^(1/12)",
+      "2",
+      "1/12",
+      "12"
+    ],
+    "answer": 0,
+    "explanation": "Doze razões iguais 2^(1/12) multiplicadas resultam em 2.",
+    "id": "q043",
+    "hints": [
+      "Identifique o conceito central: musica.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "musica",
+    "level": "facil",
+    "type": "choice",
+    "question": "O Lá₄ de referência é frequentemente...",
+    "options": [
+      "12 Hz",
+      "4 400 000 Hz",
+      "440 Hz",
+      "40 Hz"
+    ],
+    "answer": 2,
+    "explanation": "440 Hz é convenção frequente de afinação, com outras referências possíveis.",
+    "id": "q044",
+    "hints": [
+      "Identifique o conceito central: musica.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "musica",
+    "level": "facil",
+    "type": "choice",
+    "question": "O timbre da mesma nota pode diferir entre instrumentos devido a...",
+    "options": [
+      "mudança obrigatória do período de todas as ondas",
+      "alteração necessária da velocidade da luz",
+      "harmônicos e envelope temporal",
+      "frequências sempre idênticas em todo o espectro"
+    ],
+    "answer": 2,
+    "explanation": "Uma fundamental semelhante pode ter combinações harmônicas distintas.",
+    "id": "q045",
+    "hints": [
+      "Identifique o conceito central: musica.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "base",
+    "level": "medio",
+    "type": "order",
+    "question": "Ordene as etapas para calcular a frequência a partir de ciclos e tempo.",
+    "steps": [
+      "Expressar o resultado em hertz",
+      "Identificar quantidade de ciclos N e tempo t",
+      "Converter o tempo para segundos",
+      "Calcular f = N/t"
+    ],
+    "correctOrder": [
+      "Identificar quantidade de ciclos N e tempo t",
+      "Converter o tempo para segundos",
+      "Calcular f = N/t",
+      "Expressar o resultado em hertz"
+    ],
+    "answer": null,
+    "explanation": "Frequência é ciclos divididos pelo tempo em segundos.",
+    "id": "q046",
+    "hints": [
+      "Identifique o conceito central: base.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "base",
+    "level": "medio",
+    "type": "match",
+    "question": "Associe unidades e grandezas.",
+    "pairs": [
+      {
+        "left": "Hertz",
+        "right": "frequência"
+      },
+      {
+        "left": "Segundo",
+        "right": "período"
+      },
+      {
+        "left": "Metro por segundo",
+        "right": "velocidade"
+      }
+    ],
+    "matchOptions": [
+      "período",
+      "velocidade",
+      "frequência"
+    ],
+    "answer": null,
+    "explanation": "As unidades SI distinguem ciclos por segundo, tempo e distância por tempo.",
+    "id": "q047",
+    "hints": [
+      "Identifique o conceito central: base.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "base",
+    "level": "medio",
+    "type": "choice",
+    "question": "Uma fonte vibra 90 vezes em 3 segundos. Qual é seu período?",
+    "options": [
+      "1/30 s",
+      "270 s",
+      "3 s",
+      "30 s"
+    ],
+    "answer": 0,
+    "explanation": "A frequência é 90/3 = 30 Hz; período T = 1/30 s.",
+    "id": "q048",
+    "hints": [
+      "Identifique o conceito central: base.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "base",
+    "level": "medio",
+    "type": "choice",
+    "question": "Qual alternativa interpreta corretamente um gráfico pressão × posição?",
+    "options": [
+      "posição é medida em Hz",
+      "amplitude é obrigatoriamente a velocidade",
+      "a separação entre picos equivale sempre a um segundo",
+      "a distância entre picos sucessivos corresponde a λ"
+    ],
+    "answer": 3,
+    "explanation": "Em eixo de posição, a repetição espacial define λ, não T.",
+    "id": "q049",
+    "hints": [
+      "Identifique o conceito central: base.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "base",
+    "level": "medio",
+    "type": "choice",
+    "question": "Por que log₁₀(1000) = 3?",
+    "options": [
+      "porque 1000/10 = 3",
+      "porque 10 × 3 = 1000",
+      "porque 10³ = 1000",
+      "porque 1000 tem três algarismos significativos"
+    ],
+    "answer": 2,
+    "explanation": "O logaritmo informa qual expoente torna 10 igual ao argumento.",
+    "id": "q050",
+    "hints": [
+      "Identifique o conceito central: base.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "ondas",
+    "level": "medio",
+    "type": "order",
+    "question": "Organize o cálculo do comprimento de onda usando velocidade e frequência.",
+    "steps": [
+      "Identificar a velocidade v e frequência f",
+      "Isolar λ = v/f",
+      "Calcular λ em metros",
+      "Conferir as unidades m/s e Hz"
+    ],
+    "correctOrder": [
+      "Identificar a velocidade v e frequência f",
+      "Conferir as unidades m/s e Hz",
+      "Isolar λ = v/f",
+      "Calcular λ em metros"
+    ],
+    "answer": null,
+    "explanation": "Use v = λf e isole λ antes de substituir valores.",
+    "id": "q051",
+    "hints": [
+      "Identifique o conceito central: ondas.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "ondas",
+    "level": "medio",
+    "type": "match",
+    "question": "Associe os elementos de uma onda.",
+    "pairs": [
+      {
+        "left": "Amplitude",
+        "right": "afastamento máximo"
+      },
+      {
+        "left": "Período",
+        "right": "duração de um ciclo"
+      },
+      {
+        "left": "Comprimento de onda",
+        "right": "separação espacial de fases equivalentes"
+      }
+    ],
+    "matchOptions": [
+      "afastamento máximo",
+      "duração de um ciclo",
+      "separação espacial de fases equivalentes"
+    ],
+    "answer": null,
+    "explanation": "Amplitude, período e comprimento de onda descrevem aspectos distintos.",
+    "id": "q052",
+    "hints": [
+      "Identifique o conceito central: ondas.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "ondas",
+    "level": "medio",
+    "type": "choice",
+    "question": "Uma onda avança horizontalmente e o meio vibra verticalmente. Ela é...",
+    "options": [
+      "impossível",
+      "necessariamente ultrassônica",
+      "transversal",
+      "longitudinal"
+    ],
+    "answer": 2,
+    "explanation": "O sentido da oscilação é perpendicular ao sentido da propagação.",
+    "id": "q053",
+    "hints": [
+      "Identifique o conceito central: ondas.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "ondas",
+    "level": "medio",
+    "type": "choice",
+    "question": "Duas cristas consecutivas aparecem em x = 1 m e x = 5 m. Qual λ?",
+    "options": [
+      "1 m",
+      "4 m",
+      "5 m",
+      "6 m"
+    ],
+    "answer": 1,
+    "explanation": "Comprimento de onda é 5 − 1 = 4 m.",
+    "id": "q054",
+    "hints": [
+      "Identifique o conceito central: ondas.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "ondas",
+    "level": "medio",
+    "type": "choice",
+    "question": "Uma mesma fonte passa a emitir maior amplitude mantendo frequência. O que permanece igual, se o meio não mudar?",
+    "options": [
+      "intensidade sempre",
+      "período da onda",
+      "energia transportada necessariamente",
+      "amplitude"
+    ],
+    "answer": 1,
+    "explanation": "A frequência fixa determina T = 1/f, independentemente dessa mudança de amplitude.",
+    "id": "q055",
+    "hints": [
+      "Identifique o conceito central: ondas.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "som",
+    "level": "medio",
+    "type": "order",
+    "question": "Organize a explicação de como o som chega ao ouvido.",
+    "steps": [
+      "O meio apresenta variações de pressão",
+      "A onda se propaga pelo meio",
+      "O tímpano recebe a perturbação",
+      "A fonte vibra"
+    ],
+    "correctOrder": [
+      "A fonte vibra",
+      "O meio apresenta variações de pressão",
+      "A onda se propaga pelo meio",
+      "O tímpano recebe a perturbação"
+    ],
+    "answer": null,
+    "explanation": "O som mecânico depende da vibração e propagação até o ouvido.",
+    "id": "q056",
+    "hints": [
+      "Identifique o conceito central: som.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "som",
+    "level": "medio",
+    "type": "match",
+    "question": "Relacione os fenômenos acústicos básicos.",
+    "pairs": [
+      {
+        "left": "Compressão",
+        "right": "pressão acima da média"
+      },
+      {
+        "left": "Rarefação",
+        "right": "pressão abaixo da média"
+      },
+      {
+        "left": "Vácuo",
+        "right": "ausência de meio para som mecânico"
+      }
+    ],
+    "matchOptions": [
+      "pressão abaixo da média",
+      "pressão acima da média",
+      "ausência de meio para som mecânico"
+    ],
+    "answer": null,
+    "explanation": "O som no ar envolve variações de pressão no meio material.",
+    "id": "q057",
+    "hints": [
+      "Identifique o conceito central: som.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "som",
+    "level": "medio",
+    "type": "choice",
+    "question": "Se a fonte vibra, mas a câmara é evacuada, o som externo tende a diminuir porque...",
+    "options": [
+      "a frequência da fonte se torna negativa",
+      "a luz deixa de existir",
+      "o objeto não pode se mover",
+      "há menos partículas disponíveis para transmitir a onda"
+    ],
+    "answer": 3,
+    "explanation": "A onda necessita de acoplamento mecânico com um meio.",
+    "id": "q058",
+    "hints": [
+      "Identifique o conceito central: som.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "som",
+    "level": "medio",
+    "type": "choice",
+    "question": "Qual comparação é fisicamente correta?",
+    "options": [
+      "ambos sempre precisam de ar",
+      "luz viaja no vácuo, som não",
+      "som sempre viaja mais rápido que luz",
+      "som não passa pela água"
+    ],
+    "answer": 1,
+    "explanation": "Ondas eletromagnéticas não exigem meio material; as mecânicas exigem.",
+    "id": "q059",
+    "hints": [
+      "Identifique o conceito central: som.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "som",
+    "level": "medio",
+    "type": "choice",
+    "question": "Um evento de 10 Hz corresponde a...",
+    "options": [
+      "luz visível",
+      "infrassom na classificação humana típica",
+      "ultrassom",
+      "um tom sempre audível a todos"
+    ],
+    "answer": 1,
+    "explanation": "10 Hz está abaixo dos cerca de 20 Hz do limite inferior típico de audição humana.",
+    "id": "q060",
+    "hints": [
+      "Identifique o conceito central: som.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "propriedades",
+    "level": "medio",
+    "type": "order",
+    "question": "Ordene um procedimento para comparar dois timbres com a mesma nota.",
+    "steps": [
+      "Produzir dois espectros harmônicos diferentes",
+      "Comparar as formas de onda e envelopes",
+      "Escolher a mesma frequência fundamental",
+      "Ouvir em volume digital baixo"
+    ],
+    "correctOrder": [
+      "Escolher a mesma frequência fundamental",
+      "Produzir dois espectros harmônicos diferentes",
+      "Ouvir em volume digital baixo",
+      "Comparar as formas de onda e envelopes"
+    ],
+    "answer": null,
+    "explanation": "Timbre envolve harmônicos e envelope, mesmo sem alterar a fundamental.",
+    "id": "q061",
+    "hints": [
+      "Identifique o conceito central: propriedades.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "propriedades",
+    "level": "medio",
+    "type": "match",
+    "question": "Associe propriedades e percepções.",
+    "pairs": [
+      {
+        "left": "Altura",
+        "right": "grave ou agudo"
+      },
+      {
+        "left": "Intensidade percebida",
+        "right": "forte ou fraco"
+      },
+      {
+        "left": "Timbre",
+        "right": "identidade da fonte sonora"
+      }
+    ],
+    "matchOptions": [
+      "grave ou agudo",
+      "identidade da fonte sonora",
+      "forte ou fraco"
+    ],
+    "answer": null,
+    "explanation": "Altura, volume percebido e timbre não devem ser confundidos.",
+    "id": "q062",
+    "hints": [
+      "Identifique o conceito central: propriedades.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "propriedades",
+    "level": "medio",
+    "type": "choice",
+    "question": "A intensidade física em condições apropriadas é descrita por...",
+    "options": [
+      "frequência dividida por período",
+      "diâmetro dividido pela tensão",
+      "potência dividida por área",
+      "massa multiplicada por tempo"
+    ],
+    "answer": 2,
+    "explanation": "I = P/A para potência acústica atravessando área apropriada.",
+    "id": "q063",
+    "hints": [
+      "Identifique o conceito central: propriedades.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "propriedades",
+    "level": "medio",
+    "type": "choice",
+    "question": "Um tom dura 3 s e vibra a 200 Hz. Qual distinção está correta?",
+    "options": [
+      "a frequência é 3 Hz",
+      "200 s é duração",
+      "3 s é duração e 0,005 s é período",
+      "3 s é o período"
+    ],
+    "answer": 2,
+    "explanation": "T = 1/200 = 0,005 s, enquanto o evento total dura 3 s.",
+    "id": "q064",
+    "hints": [
+      "Identifique o conceito central: propriedades.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "propriedades",
+    "level": "medio",
+    "type": "choice",
+    "question": "Por que um som com maior amplitude de pressão não precisa ter altura maior?",
+    "options": [
+      "a amplitude é uma medida de hertz",
+      "o período sempre dobra",
+      "não há relação entre pressão e som",
+      "a altura relaciona-se sobretudo à frequência, não à amplitude"
+    ],
+    "answer": 3,
+    "explanation": "Amplitude participa da intensidade em condições definidas; frequência participa da altura.",
+    "id": "q065",
+    "hints": [
+      "Identifique o conceito central: propriedades.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "velocidade",
+    "level": "medio",
+    "type": "order",
+    "question": "Ordene o procedimento para estimar a distância de um trovão.",
+    "steps": [
+      "Usar d ≈ vt",
+      "Escolher velocidade aproximada do som no ar",
+      "Expressar a distância com unidade",
+      "Medir tempo entre o clarão e o trovão"
+    ],
+    "correctOrder": [
+      "Medir tempo entre o clarão e o trovão",
+      "Escolher velocidade aproximada do som no ar",
+      "Usar d ≈ vt",
+      "Expressar a distância com unidade"
+    ],
+    "answer": null,
+    "explanation": "Desprezamos o tempo da luz em distâncias cotidianas e usamos d ≈ vt.",
+    "id": "q066",
+    "hints": [
+      "Identifique o conceito central: velocidade.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "velocidade",
+    "level": "medio",
+    "type": "match",
+    "question": "Associe condições e resultados típicos.",
+    "pairs": [
+      {
+        "left": "Ar a 20 °C",
+        "right": "velocidade próxima de 343 m/s"
+      },
+      {
+        "left": "Água",
+        "right": "velocidade típica perto de 1480 m/s"
+      },
+      {
+        "left": "Vácuo",
+        "right": "sem propagação de som mecânico"
+      }
+    ],
+    "matchOptions": [
+      "velocidade típica perto de 1480 m/s",
+      "velocidade próxima de 343 m/s",
+      "sem propagação de som mecânico"
+    ],
+    "answer": null,
+    "explanation": "Os valores são aproximados e dependem de temperatura e material.",
+    "id": "q067",
+    "hints": [
+      "Identifique o conceito central: velocidade.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "velocidade",
+    "level": "medio",
+    "type": "choice",
+    "question": "Ao entrar em região onde a velocidade é menor, mantendo f, λ...",
+    "options": [
+      "fica necessariamente idêntico",
+      "diminui",
+      "aumenta",
+      "torna-se uma medida de tempo"
+    ],
+    "answer": 1,
+    "explanation": "λ = v/f, então velocidade menor com f fixa implica λ menor.",
+    "id": "q068",
+    "hints": [
+      "Identifique o conceito central: velocidade.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "velocidade",
+    "level": "medio",
+    "type": "choice",
+    "question": "Que propriedade adicional à densidade influencia fortemente velocidade em materiais?",
+    "options": [
+      "volume digital do celular",
+      "cor da superfície",
+      "rigidez ou compressibilidade",
+      "massa total do observador"
+    ],
+    "answer": 2,
+    "explanation": "Velocidade de perturbações mecânicas depende de inércia e resposta elástica.",
+    "id": "q069",
+    "hints": [
+      "Identifique o conceito central: velocidade.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "velocidade",
+    "level": "medio",
+    "type": "choice",
+    "question": "Qual situação é melhor aproximada pela lei do inverso do quadrado?",
+    "options": [
+      "som no vácuo",
+      "fonte pontual isotrópica em campo livre",
+      "sala altamente reverberante",
+      "onda guiada em tubo estreito ideal"
+    ],
+    "answer": 1,
+    "explanation": "I ∝ 1/r² pressupõe distribuição esférica e ausência de perdas extras.",
+    "id": "q070",
+    "hints": [
+      "Identifique o conceito central: velocidade.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "fontes",
+    "level": "medio",
+    "type": "order",
+    "question": "Organize o cálculo da fundamental de uma corda ideal fixa.",
+    "steps": [
+      "Medir o comprimento L",
+      "Calcular v = √(F/μ)",
+      "Identificar tensão F e densidade linear μ",
+      "Calcular f₁ = v/(2L)"
+    ],
+    "correctOrder": [
+      "Identificar tensão F e densidade linear μ",
+      "Calcular v = √(F/μ)",
+      "Medir o comprimento L",
+      "Calcular f₁ = v/(2L)"
+    ],
+    "answer": null,
+    "explanation": "A velocidade na corda vem de F/μ e o modo fundamental é v/(2L).",
+    "id": "q071",
+    "hints": [
+      "Identifique o conceito central: fontes.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "fontes",
+    "level": "medio",
+    "type": "match",
+    "question": "Associe componentes das ondas estacionárias.",
+    "pairs": [
+      {
+        "left": "Nó",
+        "right": "deslocamento mínimo"
+      },
+      {
+        "left": "Ventre",
+        "right": "deslocamento máximo"
+      },
+      {
+        "left": "Fundamental",
+        "right": "modo de menor frequência permitida"
+      }
+    ],
+    "matchOptions": [
+      "modo de menor frequência permitida",
+      "deslocamento máximo",
+      "deslocamento mínimo"
+    ],
+    "answer": null,
+    "explanation": "Nós e ventres descrevem o padrão estacionário; a fundamental é o primeiro modo.",
+    "id": "q072",
+    "hints": [
+      "Identifique o conceito central: fontes.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "fontes",
+    "level": "medio",
+    "type": "choice",
+    "question": "Um tubo aberto de 0,5 m com v = 340 m/s tem fundamental...",
+    "options": [
+      "340 Hz",
+      "680 Hz",
+      "170 Hz",
+      "85 Hz"
+    ],
+    "answer": 0,
+    "explanation": "f₁ = v/(2L) = 340/(2×0,5) = 340 Hz.",
+    "id": "q073",
+    "hints": [
+      "Identifique o conceito central: fontes.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "fontes",
+    "level": "medio",
+    "type": "choice",
+    "question": "Um tubo fechado-aberto ideal apresenta quais múltiplos da fundamental?",
+    "options": [
+      "1, 3, 5, 7,...",
+      "0, 2, 4,...",
+      "1, 2, 3, 4,...",
+      "somente o segundo"
+    ],
+    "answer": 0,
+    "explanation": "As condições de contorno permitem somente n ímpar.",
+    "id": "q074",
+    "hints": [
+      "Identifique o conceito central: fontes.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "fontes",
+    "level": "medio",
+    "type": "choice",
+    "question": "Qual mudança tende a reduzir a frequência fundamental de uma corda ideal?",
+    "options": [
+      "reduzir a massa por comprimento μ",
+      "aumentar o comprimento L",
+      "aumentar a tensão F",
+      "aumentar a velocidade v"
+    ],
+    "answer": 1,
+    "explanation": "f₁ = v/(2L), portanto aumentar L reduz f₁ se v for mantida.",
+    "id": "q075",
+    "hints": [
+      "Identifique o conceito central: fontes.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "fenomenos",
+    "level": "medio",
+    "type": "order",
+    "question": "Ordene a investigação da reflexão numa parede.",
+    "steps": [
+      "Calcular o percurso total vt",
+      "Medir o intervalo entre o som e o eco",
+      "Identificar fonte, observador e refletor",
+      "Dividir por dois para achar a distância à parede"
+    ],
+    "correctOrder": [
+      "Identificar fonte, observador e refletor",
+      "Medir o intervalo entre o som e o eco",
+      "Calcular o percurso total vt",
+      "Dividir por dois para achar a distância à parede"
+    ],
+    "answer": null,
+    "explanation": "Em eco simples a trajetória total tem dois trechos.",
+    "id": "q076",
+    "hints": [
+      "Identifique o conceito central: fenomenos.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "fenomenos",
+    "level": "medio",
+    "type": "match",
+    "question": "Associe cada fenômeno à sua descrição.",
+    "pairs": [
+      {
+        "left": "Reflexão",
+        "right": "retorno da onda"
+      },
+      {
+        "left": "Refração",
+        "right": "mudança de caminho por velocidade"
+      },
+      {
+        "left": "Interferência",
+        "right": "reforço ou cancelamento pela soma"
+      }
+    ],
+    "matchOptions": [
+      "mudança de caminho por velocidade",
+      "reforço ou cancelamento pela soma",
+      "retorno da onda"
+    ],
+    "answer": null,
+    "explanation": "Os fenômenos têm causas e consequências físicas distintas.",
+    "id": "q077",
+    "hints": [
+      "Identifique o conceito central: fenomenos.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "fenomenos",
+    "level": "medio",
+    "type": "choice",
+    "question": "Para uma onda atravessando uma interface estacionária, o que geralmente se mantém?",
+    "options": [
+      "velocidade de propagação",
+      "frequência",
+      "ângulo de direção",
+      "comprimento de onda"
+    ],
+    "answer": 1,
+    "explanation": "A frequência é imposta pela fonte; velocidade e λ podem mudar.",
+    "id": "q078",
+    "hints": [
+      "Identifique o conceito central: fenomenos.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "fenomenos",
+    "level": "medio",
+    "type": "choice",
+    "question": "Dois sinais de 440 e 442 Hz produzem batimentos em torno de...",
+    "options": [
+      "220 Hz",
+      "882 Hz",
+      "2 Hz",
+      "440 Hz"
+    ],
+    "answer": 2,
+    "explanation": "fᵦ = |442 − 440| = 2 Hz.",
+    "id": "q079",
+    "hints": [
+      "Identifique o conceito central: fenomenos.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "fenomenos",
+    "level": "medio",
+    "type": "choice",
+    "question": "Qual ação aumenta a absorção acústica, em geral?",
+    "options": [
+      "remover o meio material de uma sala sem alterar o resto",
+      "instalar materiais adequados para dissipar energia acústica",
+      "aumentar toda reflexão",
+      "somar dB aritmeticamente"
+    ],
+    "answer": 1,
+    "explanation": "Materiais absorventes dissipam parte da energia incidente, reduzindo certas reflexões.",
+    "id": "q080",
+    "hints": [
+      "Identifique o conceito central: fenomenos.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "decibeis",
+    "level": "medio",
+    "type": "order",
+    "question": "Ordene o cálculo de diferença de níveis a partir de intensidades.",
+    "steps": [
+      "Calcular a razão I₂/I₁",
+      "Encontrar o logaritmo decimal da razão",
+      "Multiplicar por dez para obter Δβ em dB",
+      "Obter duas intensidades comparáveis"
+    ],
+    "correctOrder": [
+      "Obter duas intensidades comparáveis",
+      "Calcular a razão I₂/I₁",
+      "Encontrar o logaritmo decimal da razão",
+      "Multiplicar por dez para obter Δβ em dB"
+    ],
+    "answer": null,
+    "explanation": "Diferença = 10 log₁₀(I₂/I₁).",
+    "id": "q081",
+    "hints": [
+      "Identifique o conceito central: decibeis.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "decibeis",
+    "level": "medio",
+    "type": "match",
+    "question": "Associe diferenças de nível e razões de intensidade.",
+    "pairs": [
+      {
+        "left": "+10 dB",
+        "right": "razão 10"
+      },
+      {
+        "left": "+20 dB",
+        "right": "razão 100"
+      },
+      {
+        "left": "+30 dB",
+        "right": "razão 1000"
+      }
+    ],
+    "matchOptions": [
+      "razão 100",
+      "razão 1000",
+      "razão 10"
+    ],
+    "answer": null,
+    "explanation": "Para nível de intensidade, razão = 10^(Δβ/10).",
+    "id": "q082",
+    "hints": [
+      "Identifique o conceito central: decibeis.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "decibeis",
+    "level": "medio",
+    "type": "choice",
+    "question": "O som A mede 60 dB e o B 70 dB, nas mesmas condições de referência. B tem...",
+    "options": [
+      "10 vezes mais frequência",
+      "100 vezes menos intensidade",
+      "10 vezes a intensidade física de A",
+      "apenas 10% mais intensidade"
+    ],
+    "answer": 2,
+    "explanation": "Diferença de +10 dB corresponde à razão de intensidade 10.",
+    "id": "q083",
+    "hints": [
+      "Identifique o conceito central: decibeis.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "decibeis",
+    "level": "medio",
+    "type": "choice",
+    "question": "Qual afirmação sobre fones e segurança é mais adequada?",
+    "options": [
+      "nível e duração de exposição importam",
+      "sons graves são sempre seguros",
+      "qualquer som acima de 60 dB causa lesão imediata",
+      "apenas a frequência da música determina risco"
+    ],
+    "answer": 0,
+    "explanation": "Riscos de audição variam com dose e susceptibilidade individual.",
+    "id": "q084",
+    "hints": [
+      "Identifique o conceito central: decibeis.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "decibeis",
+    "level": "medio",
+    "type": "choice",
+    "question": "Por que dBA é diferente de um nível genérico dB de intensidade?",
+    "options": [
+      "dBA usa ponderação por frequência em medidas sonoras",
+      "dBA é sinônimo de hertz",
+      "dBA é medida de distância",
+      "dBA elimina todo ruído"
+    ],
+    "answer": 0,
+    "explanation": "A ponderação A relaciona-se à sensibilidade auditiva conforme a frequência e aplica-se a medições práticas.",
+    "id": "q085",
+    "hints": [
+      "Identifique o conceito central: decibeis.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "musica",
+    "level": "medio",
+    "type": "order",
+    "question": "Organize a descoberta de uma nota n semitons acima de outra.",
+    "steps": [
+      "Contar o número de semitons n",
+      "Calcular o fator 2^(n/12)",
+      "Identificar a frequência inicial f₁",
+      "Multiplicar f₁ pelo fator"
+    ],
+    "correctOrder": [
+      "Identificar a frequência inicial f₁",
+      "Contar o número de semitons n",
+      "Calcular o fator 2^(n/12)",
+      "Multiplicar f₁ pelo fator"
+    ],
+    "answer": null,
+    "explanation": "No temperamento igual cada semitom representa a mesma razão multiplicativa.",
+    "id": "q086",
+    "hints": [
+      "Identifique o conceito central: musica.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "musica",
+    "level": "medio",
+    "type": "match",
+    "question": "Associe intervalos e razões ideais.",
+    "pairs": [
+      {
+        "left": "Oitava",
+        "right": "2:1"
+      },
+      {
+        "left": "Quinta justa em afinação justa",
+        "right": "3:2"
+      },
+      {
+        "left": "Quarta justa em afinação justa",
+        "right": "4:3"
+      }
+    ],
+    "matchOptions": [
+      "2:1",
+      "4:3",
+      "3:2"
+    ],
+    "answer": null,
+    "explanation": "As razões simples citadas referem-se a afinação justa, exceto a oitava, universal à comparação.",
+    "id": "q087",
+    "hints": [
+      "Identifique o conceito central: musica.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "musica",
+    "level": "medio",
+    "type": "choice",
+    "question": "Quantos semitons temperados equivalem a uma oitava?",
+    "options": [
+      "6",
+      "12",
+      "24 Hz",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "O sistema de temperamento igual divide a oitava em 12 semitons.",
+    "id": "q088",
+    "hints": [
+      "Identifique o conceito central: musica.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "musica",
+    "level": "medio",
+    "type": "choice",
+    "question": "Se n = −12 na fórmula temperada, f₂ é...",
+    "options": [
+      "o dobro de f₁",
+      "f₁ elevado ao quadrado",
+      "metade de f₁",
+      "f₁ menos 12 Hz"
+    ],
+    "answer": 2,
+    "explanation": "2^(−12/12)=1/2, uma oitava descendente.",
+    "id": "q089",
+    "hints": [
+      "Identifique o conceito central: musica.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "musica",
+    "level": "medio",
+    "type": "choice",
+    "question": "Dois sinais de 440 e 880 Hz representam, em termos de frequências fundamentais,...",
+    "options": [
+      "um uníssono",
+      "uma diferença de 1 semitom",
+      "uma oitava",
+      "um batimento de 1 Hz"
+    ],
+    "answer": 2,
+    "explanation": "A razão 880/440 = 2 caracteriza uma oitava.",
+    "id": "q090",
+    "hints": [
+      "Identifique o conceito central: musica.",
+      "Procure a relação entre as grandezas antes de calcular.",
+      "Confira unidades e releia a explicação da aula correspondente."
+    ]
+  },
+  {
+    "module": "base",
+    "level": "dificil",
+    "type": "number",
+    "question": "Uma vibração completa 840 ciclos em 3,5 s. Informe a frequência (Hz).",
+    "answer": 240.0,
+    "tolerance": 0.001,
+    "explanation": "f = ciclos/tempo = 840/3,5 = 240 Hz.",
+    "formula": "freq",
+    "id": "q091",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "base",
+    "level": "dificil",
+    "type": "number",
+    "question": "Um período dura 2,5 ms. Determine a frequência (Hz).",
+    "answer": 400.0,
+    "tolerance": 0.001,
+    "explanation": "Converta 2,5 ms = 0,0025 s; f = 1/T = 400 Hz.",
+    "formula": "freq",
+    "id": "q092",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "base",
+    "level": "dificil",
+    "type": "number",
+    "question": "O som percorre 1,7 km em 5 s. Determine a velocidade média (m/s).",
+    "answer": 340.0,
+    "tolerance": 0.001,
+    "explanation": "Converta 1,7 km = 1700 m; v = 1700/5 = 340 m/s.",
+    "formula": "velocidade",
+    "id": "q093",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "ondas",
+    "level": "dificil",
+    "type": "number",
+    "question": "Uma onda de 160 Hz viaja a 320 m/s. Calcule seu comprimento de onda (m).",
+    "answer": 2.0,
+    "tolerance": 0.001,
+    "explanation": "λ = v/f = 320/160 = 2 m.",
+    "formula": "onda",
+    "id": "q094",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "ondas",
+    "level": "dificil",
+    "type": "number",
+    "question": "Uma onda periódica apresenta λ = 0,85 m e f = 400 Hz. Determine v (m/s).",
+    "answer": 340.0,
+    "tolerance": 0.001,
+    "explanation": "v = λf = 0,85×400 = 340 m/s.",
+    "formula": "onda",
+    "id": "q095",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "ondas",
+    "level": "dificil",
+    "type": "number",
+    "question": "Em um gráfico espacial, a distância entre a primeira e a sexta crista consecutiva é 7,5 m. Qual λ (m)?",
+    "answer": 1.5,
+    "tolerance": 0.001,
+    "explanation": "Entre seis cristas existem cinco intervalos: λ = 7,5/5 = 1,5 m.",
+    "formula": "onda",
+    "id": "q096",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "som",
+    "level": "dificil",
+    "type": "number",
+    "question": "O tímpano recebe um tom periódico a 125 Hz durante 4 s. Aproximadamente quantos ciclos chegam nesse período?",
+    "answer": 500.0,
+    "tolerance": 0.001,
+    "explanation": "Número de ciclos N = f×t = 125×4 = 500.",
+    "formula": "freq",
+    "id": "q097",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "som",
+    "level": "dificil",
+    "type": "number",
+    "question": "Um sinal tem frequência fundamental de 750 Hz. Quantas oscilações completas ocorrem em 0,08 s?",
+    "answer": 60.0,
+    "tolerance": 0.001,
+    "explanation": "N = f t = 750×0,08 = 60.",
+    "formula": "freq",
+    "id": "q098",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "som",
+    "level": "dificil",
+    "type": "number",
+    "question": "O período de uma vibração sonora é 0,002 s. Qual frequência (Hz)?",
+    "answer": 500.0,
+    "tolerance": 0.001,
+    "explanation": "f = 1/0,002 = 500 Hz.",
+    "formula": "freq",
+    "id": "q099",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "propriedades",
+    "level": "dificil",
+    "type": "number",
+    "question": "Uma fonte isotrópica ideal fornece 12 W em área atravessada de 6 m². Calcule a intensidade média (W/m²).",
+    "answer": 2.0,
+    "tolerance": 0.001,
+    "explanation": "I = P/A = 12/6 = 2 W/m²; trata-se de distribuição uniforme ideal.",
+    "formula": "intensidade",
+    "id": "q100",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "propriedades",
+    "level": "dificil",
+    "type": "number",
+    "question": "Uma fonte pontual ideal produz intensidade 24 unidades a 2 m. Qual intensidade (mesmas unidades) a 4 m?",
+    "answer": 6.0,
+    "tolerance": 0.001,
+    "explanation": "I₂ = I₁(r₁/r₂)² = 24(2/4)² = 6. Modelo ideal em campo livre.",
+    "formula": "esfera",
+    "id": "q101",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "propriedades",
+    "level": "dificil",
+    "type": "number",
+    "question": "Um som dura 2,4 segundos e tem frequência de 250 Hz. Quantos ciclos ocorrem?",
+    "answer": 600.0,
+    "tolerance": 0.001,
+    "explanation": "N = f×duração = 250×2,4 = 600 ciclos.",
+    "formula": "freq",
+    "id": "q102",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "velocidade",
+    "level": "dificil",
+    "type": "number",
+    "question": "Com ar seco a 25 °C, use v ≈ 331 + 0,6θ. Determine v (m/s).",
+    "answer": 346.0,
+    "tolerance": 0.001,
+    "explanation": "v ≈ 331 + 0,6×25 = 346 m/s.",
+    "formula": "temperatura",
+    "id": "q103",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "velocidade",
+    "level": "dificil",
+    "type": "number",
+    "question": "Um raio é visto e 4,5 s depois se ouve o trovão. A 340 m/s, estime a distância (m).",
+    "answer": 1530.0,
+    "tolerance": 0.001,
+    "explanation": "d = v×t = 340×4,5 = 1530 m. Tempo da luz foi desprezado.",
+    "formula": "velocidade",
+    "id": "q104",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "velocidade",
+    "level": "dificil",
+    "type": "number",
+    "question": "Uma onda mantém f = 250 Hz, mas passa a viajar a 1500 m/s em outro material. Determine λ (m).",
+    "answer": 6.0,
+    "tolerance": 0.001,
+    "explanation": "λ = v/f = 1500/250 = 6 m. Frequência mantida na interface estacionária.",
+    "formula": "onda",
+    "id": "q105",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "fontes",
+    "level": "dificil",
+    "type": "number",
+    "question": "Corda ideal sob tensão F = 100 N e μ = 0,01 kg/m: determine v (m/s).",
+    "answer": 100.0,
+    "tolerance": 0.001,
+    "explanation": "v = √(F/μ) = √(100/0,01) = √10000 = 100 m/s.",
+    "formula": "corda",
+    "id": "q106",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "fontes",
+    "level": "dificil",
+    "type": "number",
+    "question": "Corda ideal fixa de L = 0,8 m e v = 320 m/s: calcule o terceiro harmônico (Hz).",
+    "answer": 600.0,
+    "tolerance": 0.001,
+    "explanation": "f₃ = 3v/(2L) = 960/1,6 = 600 Hz.",
+    "formula": "corda",
+    "id": "q107",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "fontes",
+    "level": "dificil",
+    "type": "number",
+    "question": "Tubo ideal fechado-aberto de L = 0,25 m e v = 340 m/s: calcule o terceiro harmônico permitido (Hz), n=3.",
+    "answer": 1020.0,
+    "tolerance": 0.001,
+    "explanation": "f₃ = 3×340/(4×0,25) = 1020 Hz. Somente n ímpares são permitidos.",
+    "formula": "tubo",
+    "id": "q108",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "fontes",
+    "level": "dificil",
+    "type": "number",
+    "question": "Tubo ideal aberto de comprimento 0,4 m e v = 320 m/s: determine a frequência fundamental (Hz).",
+    "answer": 400.0,
+    "tolerance": 0.001,
+    "explanation": "f₁ = v/(2L) = 320/(0,8) = 400 Hz.",
+    "formula": "tubo",
+    "id": "q109",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "fenomenos",
+    "level": "dificil",
+    "type": "number",
+    "question": "O eco volta após 0,75 s. Para v = 344 m/s, determine a distância até a parede (m).",
+    "answer": 129.0,
+    "tolerance": 0.001,
+    "explanation": "d = vt/2 = 344×0,75/2 = 129 m.",
+    "formula": "eco",
+    "id": "q110",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "fenomenos",
+    "level": "dificil",
+    "type": "number",
+    "question": "Dois tons estão em 512 Hz e 518 Hz. Qual é a frequência de batimentos (Hz)?",
+    "answer": 6.0,
+    "tolerance": 0.001,
+    "explanation": "fᵦ = |518−512| = 6 Hz.",
+    "formula": "batimento",
+    "id": "q111",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "fenomenos",
+    "level": "dificil",
+    "type": "number",
+    "question": "Duas ondas possuem pressões instantâneas de 0,12 Pa e −0,035 Pa. Encontre a perturbação resultante (Pa).",
+    "answer": 0.085,
+    "tolerance": 0.0001,
+    "explanation": "Superposição linear: 0,12 + (−0,035) = 0,085 Pa.",
+    "formula": "soma",
+    "id": "q112",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "fenomenos",
+    "level": "dificil",
+    "type": "number",
+    "question": "Uma onda de 425 Hz muda de meio com v = 340 m/s para outro com v = 255 m/s. Qual o novo λ (m)?",
+    "answer": 0.6,
+    "tolerance": 0.001,
+    "explanation": "f permanece 425 Hz; λ₂ = 255/425 = 0,6 m.",
+    "formula": "onda",
+    "id": "q113",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "decibeis",
+    "level": "dificil",
+    "type": "number",
+    "question": "Uma intensidade é 10⁻⁵ W/m². Adote I₀ = 10⁻¹² W/m². Qual o nível em dB?",
+    "answer": 70.0,
+    "tolerance": 0.001,
+    "explanation": "I/I₀ = 10⁷ e β = 10×log₁₀(10⁷) = 70 dB.",
+    "formula": "db",
+    "id": "q114",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "decibeis",
+    "level": "dificil",
+    "type": "number",
+    "question": "Dois sinais comparáveis diferem por 30 dB no nível de intensidade. Quantas vezes maior é a intensidade do maior?",
+    "answer": 1000.0,
+    "tolerance": 0.001,
+    "explanation": "I₂/I₁ = 10^(30/10) = 10³ = 1000.",
+    "formula": "difdb",
+    "id": "q115",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "decibeis",
+    "level": "dificil",
+    "type": "number",
+    "question": "Uma intensidade passa de 2×10⁻⁸ para 2×10⁻⁶ W/m². Qual a variação de nível (dB)?",
+    "answer": 20.0,
+    "tolerance": 0.001,
+    "explanation": "Razão = 100; Δβ = 10 log₁₀(100) = 20 dB.",
+    "formula": "difdb",
+    "id": "q116",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "decibeis",
+    "level": "dificil",
+    "type": "number",
+    "question": "Uma intensidade de 10⁻⁹ W/m² aumenta 10 vezes. Qual será o nível (dB) em relação a I₀ = 10⁻¹² W/m²?",
+    "answer": 40.0,
+    "tolerance": 0.001,
+    "explanation": "I nova = 10⁻⁸; razão 10⁴; β = 40 dB.",
+    "formula": "db",
+    "id": "q117",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "musica",
+    "level": "dificil",
+    "type": "number",
+    "question": "Na escala temperada, suba 12 semitons a partir de 523,25 Hz. Determine a nova frequência (Hz).",
+    "answer": 1046.5,
+    "tolerance": 0.005,
+    "explanation": "f₂ = 523,25×2^(12/12) = 1046,5 Hz.",
+    "formula": "intervalo",
+    "id": "q118",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "musica",
+    "level": "dificil",
+    "type": "number",
+    "question": "Na escala temperada, desça 24 semitons a partir de 880 Hz. Determine a frequência (Hz).",
+    "answer": 220.0,
+    "tolerance": 0.001,
+    "explanation": "2^(−24/12)=1/4; f₂ = 880/4 = 220 Hz.",
+    "formula": "intervalo",
+    "id": "q119",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  },
+  {
+    "module": "musica",
+    "level": "dificil",
+    "type": "number",
+    "question": "Uma quinta justa em afinação justa usa razão 3:2. Partindo de 256 Hz, qual a frequência acima (Hz)?",
+    "answer": 384.0,
+    "tolerance": 0.001,
+    "explanation": "f₂ = 256×3/2 = 384 Hz.",
+    "formula": "intervalo",
+    "id": "q120",
+    "hints": [
+      "Liste os dados do problema e a grandeza pedida.",
+      "Identifique a fórmula da situação e converta as unidades.",
+      "Substitua os números e confira a ordem das operações."
+    ]
+  }
+]
